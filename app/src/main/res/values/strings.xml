@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MA01_20170993</string>
+
+    <string name="api_url">http://openapi.seoul.go.kr:8088/627a6759487a696e3832477776626a/xml/MgisChildHouse/1/1000/ / /</string>
+    <string name="api_url2">https://api.childcare.go.kr/mediate/rest/cpmsapi030/cpmsapi030/request?key=0e762cf3ec5344468dfb0b188570ee18</string>
+    <string name="api_url3">http://openapi.seoul.go.kr:8088/627a6759487a696e3832477776626a/xml/MgisChildHouse/1/1000/</string>
+
+    <string name="api_url4">http://api.visitkorea.or.kr/openapi/service/rest/KorService/searchFestival?ServiceKey=BCjZAFRndocI4EJnjTMX7VvLij0g8Rjg1gxsTZd1bUhh3gtczdmyGW%2FBdCt6puC%2FZ%2FCGTbR%2BHBEHxko8k5R7Jg%3D%3D</string>
+    <string name="api_url5">http://api.visitkorea.or.kr/openapi/service/rest/KorService/detailIntro?ServiceKey=BCjZAFRndocI4EJnjTMX7VvLij0g8Rjg1gxsTZd1bUhh3gtczdmyGW%2FBdCt6puC%2FZ%2FCGTbR%2BHBEHxko8k5R7Jg%3D%3D</string>
+
+    <string name="api_url6">http://book.interpark.com/api/bestSeller.api?key=C969C9C699B099604383F5A199B65C1B0E1A8A96100A927330837D402C6AB496</string>
+
+    <string name="no_address_found">주소를 찾을 수 없습니다.</string>
+    <string name="address_found">주소를 찾았습니다.</string>
+
+    <string name="kakao_app_key">effbe8365a690b60b1c37c7160a73ded</string>
+    <string name="kakao_scheme">kakaoeffbe8365a690b60b1c37c7160a73ded</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>

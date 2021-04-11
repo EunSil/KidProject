@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="홈"/>
+    <item
+        android:id="@+id/myroom"
+        android:icon="@drawable/baby"
+        android:title="마이룸"/>
+    <item
+        android:id="@+id/favorites"
+        android:icon="@drawable/star"
+        android:title="즐겨찾기"/>
+</menu>
